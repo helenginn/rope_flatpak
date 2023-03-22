@@ -25,4 +25,4 @@ modules:
     sources:
       - type: git
         url: https://www.github.com/helenginn/rope.git
-        branch: helen
+        branch: master
